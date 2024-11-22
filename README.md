@@ -1,7 +1,7 @@
 ### Hi, I'm Kehinde Agboola Oluseyi.
 #### I'm a Frontend developer.
-#### I implement designs and build scalable applications with Javascript, Angular, React, TypeScript & Nextjs.
-#### I’m definitely looking forward to collaborating with other developers 🤝🤝
+#### I implement designs and build scalable applications with Javascript, Angular, React, TypeScript, Nextjs, NodeJs and ExpressJs.
+#### I’m looking forward to collaborating with other developers 🤝🤝
 
 Email: kehindeagboola52@gmail.com 📧
 
