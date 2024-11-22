@@ -1,5 +1,5 @@
 ### Hi, I'm Kehinde Agboola Oluseyi.
-#### I'm a Frontend developer.
+#### I'm a FullStack Engineer.
 #### I implement designs and build scalable applications with Javascript, Angular, React, TypeScript, Nextjs, NodeJs and ExpressJs.
 #### I’m looking forward to collaborating with other developers 🤝🤝
 
